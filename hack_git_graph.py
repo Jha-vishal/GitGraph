@@ -7,7 +7,7 @@ start_year = 2020
 end_year = 2021
 repo_path = ".Github_projects/git-graph-hack"  # Path to the local repository
 commit_message = "Automated commit for Git graph hack"
-commits_per_day = 7
+commits_per_day = 60
 interval_days = 3
 
 # Ensure the repository exists
