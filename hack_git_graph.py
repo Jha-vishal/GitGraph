@@ -3,12 +3,12 @@ import subprocess
 from datetime import datetime, timedelta
 
 # Configuration
-start_year = 2018
-end_year = 2019
+start_year = 2020
+end_year = 2021
 repo_path = ".Github_projects/git-graph-hack"  # Path to the local repository
 commit_message = "Automated commit for Git graph hack"
-commits_per_day = 6
-interval_days = 2
+commits_per_day = 7
+interval_days = 3
 
 # Ensure the repository exists
 if not os.path.exists(repo_path):
